@@ -1,0 +1,23 @@
+body {
+    background-color:lightgoldenrodyellow;
+
+    h1 {
+        color: darkred;
+    }
+
+    h2 {
+        color: darkgoldenrod;
+    }
+
+    p {
+        color: darkred;
+    }
+
+    table {
+        color: darkgoldenrod;
+    }
+
+   /* I wanted the background color to be light so that the text, headings, and table could be darker colors so that the viewer could read the content with ease. */
+
+}
+
